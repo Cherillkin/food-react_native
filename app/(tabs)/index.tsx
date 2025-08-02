@@ -66,7 +66,7 @@ export default function Index() {
         ListHeaderComponent={() => (
           <View className="flex-between flex-row w-full my-5">
             <View className="flex-start">
-              <Text className="small-bold text-primary">DELIVARY TO</Text>
+              <Text className="small-bold text-primary">DELIVER TO</Text>
               <TouchableOpacity className="flex-center flex-row gap-x-1 mt-0.5">
                 <Text className="paragraph-bold text-dark-100">Croatia</Text>
                 <Image
